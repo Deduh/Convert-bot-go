@@ -9,7 +9,7 @@ import (
 
 func convert(amount float64) float64 {
 	// найти API для ковертации валюты
-	return amount*12.6 + 3499
+	return amount*10 + 3499
 }
 
 // Получение сообщения от пользователя
